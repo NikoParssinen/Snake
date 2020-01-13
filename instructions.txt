@@ -1,0 +1,14 @@
+Introductions for program snake2.
+
+The snake moves with w, a, s, and d keys.
+
+Game is won if:
+    ¤ The snake fills up the whole area.
+
+Game is lost if:
+    ¤ The snake runs into a wall (borders of the square area).
+    ¤ The snake runs into its own body.
+
+
+Extra features:
+    ¤ Restart button.
