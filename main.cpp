@@ -13,7 +13,7 @@
 # File: main.cpp                                                   #
 # Description: Starts executing the program.                       #
 #                                                                  #
-# Author: Niko Pärssinen, 283244, niko.parssinen@tuni.fi           #
+# Author: Niko Pärssinen, niko.parssinen@tuni.fi                   #
 ####################################################################
 */
 
